@@ -1,4 +1,4 @@
-# Conor Devlin, Student id: 23201114
+# Conor Devlin, Student ID: 23201114
 # This application will prompt the user to enter the number of customers they have received for each day of the week over a 7-day period. The application will then be able to calculate the average, maximum and minimum amount of customers the user had.
 if __name__ == '__main__':
     number_of_customers = []  # This will create an empty list for the number of customers for each day to be added into.
